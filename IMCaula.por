@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica
+ --> mat
 	
 	funcao inicio()
 	{
@@ -9,7 +10,7 @@ programa
 		linha()
 		MostrarIMC(80, 1.83)
 		MostrarIMC(60, 1.83)
-		MostrarIMC(95, 1.83)
+		MostrarIMC(9, 1.83)
 		MostrarIMC(105, 1.83)
 		MostrarIMC(120, 1.83)
 		MostrarIMC(140, 1.83)
